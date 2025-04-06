@@ -1,3 +1,6 @@
+Hi! This is coding Challenege 18! 
+- I tried to rename the folder but it didt work so ignore that commit 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
