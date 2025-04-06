@@ -1,5 +1,6 @@
 Hi! This is coding Challenege 18! 
-- I tried to rename the folder but it didt work so ignore that commit 
+- I tried to rename the folder but it didt work so ignore that commit
+- http://localhost:5173/ 
 
 # React + Vite
 
